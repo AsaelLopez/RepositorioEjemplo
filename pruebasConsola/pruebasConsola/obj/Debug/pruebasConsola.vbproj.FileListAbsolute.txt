@@ -1,0 +1,10 @@
+c:\users\ender\documents\visual studio 2015\Projects\pruebasConsola\pruebasConsola\bin\Debug\pruebasConsola.exe.config
+c:\users\ender\documents\visual studio 2015\Projects\pruebasConsola\pruebasConsola\bin\Debug\pruebasConsola.exe
+c:\users\ender\documents\visual studio 2015\Projects\pruebasConsola\pruebasConsola\bin\Debug\pruebasConsola.pdb
+c:\users\ender\documents\visual studio 2015\Projects\pruebasConsola\pruebasConsola\bin\Debug\pruebasConsola.xml
+c:\users\ender\documents\visual studio 2015\Projects\pruebasConsola\pruebasConsola\obj\Debug\pruebasConsola.vbprojResolveAssemblyReference.cache
+c:\users\ender\documents\visual studio 2015\Projects\pruebasConsola\pruebasConsola\obj\Debug\pruebasConsola.Resources.resources
+c:\users\ender\documents\visual studio 2015\Projects\pruebasConsola\pruebasConsola\obj\Debug\pruebasConsola.vbproj.GenerateResource.Cache
+c:\users\ender\documents\visual studio 2015\Projects\pruebasConsola\pruebasConsola\obj\Debug\pruebasConsola.exe
+c:\users\ender\documents\visual studio 2015\Projects\pruebasConsola\pruebasConsola\obj\Debug\pruebasConsola.xml
+c:\users\ender\documents\visual studio 2015\Projects\pruebasConsola\pruebasConsola\obj\Debug\pruebasConsola.pdb
