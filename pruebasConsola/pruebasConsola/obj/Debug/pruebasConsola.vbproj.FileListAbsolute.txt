@@ -8,3 +8,7 @@ c:\users\ender\documents\visual studio 2015\Projects\pruebasConsola\pruebasConso
 c:\users\ender\documents\visual studio 2015\Projects\pruebasConsola\pruebasConsola\obj\Debug\pruebasConsola.exe
 c:\users\ender\documents\visual studio 2015\Projects\pruebasConsola\pruebasConsola\obj\Debug\pruebasConsola.xml
 c:\users\ender\documents\visual studio 2015\Projects\pruebasConsola\pruebasConsola\obj\Debug\pruebasConsola.pdb
+C:\Users\Ender\Documents\Visual Studio 2015\Projects\RepositorioDePruebas\pruebasConsola\pruebasConsola\bin\Debug\pruebasConsola.exe.config
+C:\Users\Ender\Documents\Visual Studio 2015\Projects\RepositorioDePruebas\pruebasConsola\pruebasConsola\obj\Debug\pruebasConsola.exe
+C:\Users\Ender\Documents\Visual Studio 2015\Projects\RepositorioDePruebas\pruebasConsola\pruebasConsola\obj\Debug\pruebasConsola.xml
+C:\Users\Ender\Documents\Visual Studio 2015\Projects\RepositorioDePruebas\pruebasConsola\pruebasConsola\obj\Debug\pruebasConsola.pdb
