@@ -1,0 +1,7 @@
+C:\Users\Ender\Documents\Visual Studio 2015\Projects\repoClonado\RepositorioEjemplo\pruebasConsola\SetupPrueba\bin\Debug\cab1.cab
+C:\Users\Ender\Documents\Visual Studio 2015\Projects\repoClonado\RepositorioEjemplo\pruebasConsola\SetupPrueba\bin\Debug\SetupPrueba.msi
+C:\Users\Ender\Documents\Visual Studio 2015\Projects\repoClonado\RepositorioEjemplo\pruebasConsola\SetupPrueba\bin\Debug\SetupPrueba.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\SetupPrueba.wixproj.BindContentsFileListnull.txt
+obj\Debug\SetupPrueba.wixproj.BindOutputsFileListnull.txt
+obj\Debug\SetupPrueba.wixproj.BindBuiltOutputsFileListnull.txt
