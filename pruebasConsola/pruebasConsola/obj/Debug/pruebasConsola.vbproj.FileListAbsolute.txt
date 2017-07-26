@@ -16,3 +16,9 @@ C:\Users\Ender\Documents\Visual Studio 2015\Projects\repoClonado\RepositorioEjem
 C:\Users\Ender\Documents\Visual Studio 2015\Projects\repoClonado\RepositorioEjemplo\pruebasConsola\pruebasConsola\obj\Debug\pruebasConsola.exe
 C:\Users\Ender\Documents\Visual Studio 2015\Projects\repoClonado\RepositorioEjemplo\pruebasConsola\pruebasConsola\obj\Debug\pruebasConsola.xml
 C:\Users\Ender\Documents\Visual Studio 2015\Projects\repoClonado\RepositorioEjemplo\pruebasConsola\pruebasConsola\obj\Debug\pruebasConsola.pdb
+C:\Users\Ender\Documents\Visual Studio 2015\Projects\repoClonado\RepositorioEjemplo\pruebasConsola\pruebasConsola\bin\Debug\pruebasConsola.exe
+C:\Users\Ender\Documents\Visual Studio 2015\Projects\repoClonado\RepositorioEjemplo\pruebasConsola\pruebasConsola\bin\Debug\pruebasConsola.pdb
+C:\Users\Ender\Documents\Visual Studio 2015\Projects\repoClonado\RepositorioEjemplo\pruebasConsola\pruebasConsola\bin\Debug\pruebasConsola.xml
+C:\Users\Ender\Documents\Visual Studio 2015\Projects\repoClonado\RepositorioEjemplo\pruebasConsola\pruebasConsola\obj\Debug\pruebasConsola.vbprojResolveAssemblyReference.cache
+C:\Users\Ender\Documents\Visual Studio 2015\Projects\repoClonado\RepositorioEjemplo\pruebasConsola\pruebasConsola\obj\Debug\pruebasConsola.Resources.resources
+C:\Users\Ender\Documents\Visual Studio 2015\Projects\repoClonado\RepositorioEjemplo\pruebasConsola\pruebasConsola\obj\Debug\pruebasConsola.vbproj.GenerateResource.Cache
